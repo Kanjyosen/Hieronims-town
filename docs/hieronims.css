@@ -1,0 +1,29 @@
+body {
+background: #696969;
+margin: 4em 0 1em
+}
+.f110 {
+font-size: 110;
+font-family: "sans-serif";
+}
+.f120 {
+    font-size: 120%;
+}
+.f200 {
+    font-size: 200%;
+}
+.f50 {
+    font-size: 50%;
+}
+.f75 {
+    font-size: 75%;
+}
+#menubar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    height: 4em;
+    background: #008b8b;
+}
